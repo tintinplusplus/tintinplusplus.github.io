@@ -34,6 +34,7 @@ The unofficial TinTin++ IRC channel is <a href="irc://irc.freenode.net:6667/tint
 
 Contributors
 ------------
+The following user's have contributed to the unofficial user's group projects:
 
 - @nfarrar
 - @avidal
