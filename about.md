@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-The TinTin++ Unofficial's User Group is an attempt to bring the TinTin++ community together and improve the way that we share code and documentation. This user's group is brand new and is currently being maintained by @nfarrar.
+The Unofficial TinTin++ User's Group is an attempt to bring the TinTin++ community together and improve the way that we share code and documentation. This user's group is brand new and is currently being maintained by @nfarrar.
 
 I've invited all the user's I know about on github to the organization as contributors so you should have access to contribute and fix content, should you so desire. :) If you didn't get an invite and want to contribute, shoot a message or email to @nfarrar.
 
