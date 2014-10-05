@@ -31,9 +31,9 @@ I've been working on methods of writing very portable, self-contained scripts fo
 I've started referring to these types of scripts/command files "modules" and been working on them on my own. I'm publishing my early, extremely alpha "modules" to this repository. Feel free to hack and test.
 
 
-Source Code Mirror
-------------------
-@avidal maintains a mirror on github of the tintin++ source that has been added to the tintinplusplus organization. It is available [here](http://github.com/tintinplusplus/tintin).
+Source
+------
+An unofficial mirror of the tintin++ source code. Maintained by @avidal. It is available [here](http://github.com/tintinplusplus/tintin).
 
 
 IRC Channel
