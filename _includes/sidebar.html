@@ -1,0 +1,22 @@
+<header>
+  <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+  <p class="description">{{ site.description }}</p>
+  <div class="terminal"><img src="/img/terminal.png" /></div>
+  <ul>
+    <li><a href="https://github.com/tintinplusplus/tintin">Unofficial <strong>Source</strong></a></li>
+    <li><a href="http://tintinplusplus-unoffical-documentation.readthedocs.org/">Unofficial <strong>Docs</strong></a></li>
+    <li><a href="https://github.com/tintinplusplus/tintinplusplus-modules">Unofficial <strong>Modules</strong></a></li>
+  </ul>
+
+  <div class="posts">
+    <a href="feed.xml"><i class="fa fa-rss-square"></i> Updates</a><br />
+    {% for post in site.posts %}
+      <small><i class="fa fa-arrow-circle-right"></i> <a href="{{ post.url }}">{{ post.title }}</a></small>
+    {% endfor %}
+  </div>
+
+</header>
+
+<footer>
+  <p><small>Hosted on <a href="https://github.com/tintinplusplus/tintinplusplus.github.io">github pages</a> and maintained by <a href="https://github.com/nfarrar">@nfarrar</a>.</small></p>
+</footer>

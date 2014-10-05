@@ -1,9 +1,12 @@
 # Site settings
 title: tintinplusplus.github.io
-email: nathan.farrar@gmail.com
 description: The Unoffiical TinTin++ User's Group
-baseurl: ""
+
 url: "http://tintinplusplus.github.io"
+baseurl: ""
+permalink: pretty
+
+email: nathan.farrar@gmail.com
 twitter_username: tintinplusplus
 github_username:  tintinplusplus
 

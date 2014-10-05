@@ -109,6 +109,10 @@ header {
   position:fixed;
 }
 
+div .posts {
+  padding-top: 100px;
+}
+
 header .description {
   margin: 0px;
   padding: 0px;
